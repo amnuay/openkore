@@ -1,0 +1,20 @@
+prontera 282 200 Kafra Staff
+prontera 282 208  ไกด์ประตูตะวันออก 
+morocc 127 79 Stylist
+morocc 134 105 Pet Groomer
+morocc 140 83  ไอเทมเช่า 
+morocc 147 102 Tool Dealer
+morocc 152 110 Bulletin Board#morroc
+morocc 156 97 Kafra Staff
+morocc 158 97 Smile Helper
+morocc 176 99 Item Collector
+morocc 155 69 Trader
+morocc 139 80  ไอเทมพิเศษ 
+morocc 166 51 Jeweler
+morocc 146 43 Jeweler
+morocc 60 42 Young Man#moc
+morocc 51 41 Seiyablem#moc
+morocc 37 65 Trader
+morocc 54 97  ไกด์นำทาง 
+morocc 35 174 Meidi
+moc_fild19 107 101 Bulletin Board#sphinx
